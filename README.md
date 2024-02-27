@@ -41,6 +41,9 @@
 
   ![image](https://github.com/juan-conde-21/aws_lambda/assets/13276404/ad2c2441-b7a6-460d-8fdf-592e0e06957a)
 
+6. La configuracion del API gateway debe quedar de la siguiente manera.
+
+![image](https://github.com/juan-conde-21/aws_lambda/assets/13276404/8676387c-ec72-482b-a7de-443169e4ede7)
 
 
 
