@@ -1,5 +1,7 @@
 # AWS API Gateway ---> Lambda ---> DynamoDB 
 
+Se detalla la instrumentación de una funcion AWS Lambda con Instana.
+
 1. Crear la tabla "product-inventory" en DynamoDB con el partition key "productId"
 
 ![image](https://github.com/juan-conde-21/aws_lambda/assets/13276404/122b4d73-b45a-4edb-bece-f02e9dc9af7c)
