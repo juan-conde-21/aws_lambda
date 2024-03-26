@@ -4,11 +4,9 @@ Se detalla la instrumentación de una funcion AWS Lambda con Instana.
 
 1. Crear una funcion Lambda con el runtime Node.js 16.x y crear el rol de ejecucion "serverless-api-role"
 
-![image](https://github.com/juan-conde-21/aws_lambda/assets/13276404/85ca2e20-ded3-4850-8441-0929bdbfcb74)
+![image](https://github.com/juan-conde-21/aws_lambda/assets/13276404/619ec782-2bbe-4ce2-8a5c-233a1cd58ac6)
 
-![image](https://github.com/juan-conde-21/aws_lambda/assets/13276404/2650bc6d-9d2c-423d-977b-48c6614f4fba)
-
-2. Editar la funcion Lambda y agregar el codigo del archivo "index.js" del repositorio, colocar la misma region donde se encuentran desplegados los servicios y desplegar los cambios.
+2. Editar la funcion Lambda, para este ejemplo se agrega el codigo del archivo "index.js" del repositorio y se coloca la misma region donde se encuentran desplegados los servicios, luego se despliegan los cambios.
 
 ![image](https://github.com/juan-conde-21/aws_lambda/assets/13276404/a0d7cd5f-60d5-4e33-9c7d-5201413eeeb4)
 
